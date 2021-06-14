@@ -36,6 +36,10 @@ To enable the jellybeans color scheme, use
 ```
 
 If you are satisfied, you can add `colorscheme jellybeans` to your `~/.vimrc` file (`_vimrc` in Windows).
+```
+colo jellybeans
+syntax on
+```
 
 [dein]: https://github.com/Shougo/dein.vim
 [pathogen]: https://github.com/tpope/vim-pathogen
